@@ -1,4 +1,4 @@
-## remenber to add in .env your token from chatwoot pointing to nuxt config
+## Remember to add in .env your token from chatwoot pointing to nuxt config
 
 # Nuxt 3 Minimal Starter
 
