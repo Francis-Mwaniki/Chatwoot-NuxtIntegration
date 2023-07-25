@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   ],
   chatwoot: {
     init: {
-      websiteToken: 'Q1cSgXpEG2DomaFDtT9PmYdf',
+      websiteToken: process.env.webToken,
 
     },
     settings: {
@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       position: 'left',
       launcherTitle: 'Chat with us',
        expandable: true,
-       
+
       // ... and more settings
     },
     // If this is loaded you can make it true, https://github.com/nuxt-modules/partytown
