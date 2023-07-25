@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   ],
   chatwoot: {
     init: {
-      websiteToken: 'Q1cSgXpEG2DomaFDtT9PmYdf',
+      websiteToken: 'your token here',
 
 
     },
